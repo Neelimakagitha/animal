@@ -1,0 +1,44 @@
+nav{
+    width:1300px;
+    height:80px;
+    background-color:bisque;
+    padding-left: 100px;
+     padding-top: 50px;
+    
+}
+a{
+    text-decoration: none;
+    font-size:20px;
+    padding-left:20px;
+    color:black;
+   
+}
+.main{
+    display: flex;
+    color:white;
+    
+}
+.neelu{
+    display: flex;
+    color:white;
+}
+.anu{
+    display: flex;
+    color:white;
+}
+.seta{
+    display:flex;
+    color:black;
+    
+}
+.sandy{
+    display: flex;
+}
+.vamsi{
+    display: flex;
+
+}
+footer{
+    display: flex;
+}
+
